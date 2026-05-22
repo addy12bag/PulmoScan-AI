@@ -1,0 +1,9 @@
+Flask
+flask-cors
+Pillow
+soundfile
+numpy
+torch
+torchvision
+torchaudio
+ollama
